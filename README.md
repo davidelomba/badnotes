@@ -11,7 +11,7 @@ This is our *ctf - challenge*! The flag is a message to decrypt containing a mag
 - have fun
 
 ## Hints
-- You can look folders in rsa_project except for `receiver` and `sender` (please don't do that)
+- You can look up every folders in rsa_project except for `receiver` and `sender` folders (please don't do that)
 - Bezout's identity
 - Extended Euclidean Algorithm
 
