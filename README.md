@@ -1,7 +1,7 @@
 # badnotes
 
 ## Challenge 
-This is our *ctf - challenge*! The flag is a message to decrypt containing a magic number. There is a *sender* that encrypt a message *m* with two different public keys using RSA algorithm and sends them to the *reciver*. Your role as attacker is to act as *man-in-the-middle*: once you found the ciphertexts try to recover *m*.  
+This is our *ctf - challenge*! The flag is a message to decrypt containing a magic number. There is a *sender* that encrypt a message *m* with two different public keys using RSA algorithm and sends them to the *reciver*. Your role as attacker is to act as *man-in-the-middle*: once you found the ciphertexts try to recover *m* (without deriving the private keys).  
 
 ## Instructions
 - clone the repository
